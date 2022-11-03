@@ -1,10 +1,12 @@
 # Instructions
 
-1. Clone this repository from the home dir using `git clone https://github.com/ZPears/gifo_test_script.git`
-2. Go into the cloned repository: `cd ~/gifo_test_script`
-3. Install dependencies (just the GPIO library): `pip install -r requirements.txt`
-4. Start program: `python test.py`
-5. Press buttons and see if there's any output to the console.
+1. After installing the RPi OS, open a terminal window.
+2. Go to the home directory (in case you aren't already there): `cd ~`
+3. Clone this repository: `git clone https://github.com/ZPears/gifo_test_script.git`
+4. Go into the cloned repository: `cd ~/gifo_test_script`
+5. Install dependencies (just the GPIO library): `pip install -r requirements.txt`
+6. Start program: `python test.py`
+7. Press buttons and see if there's any output to the console.
 
 # Notes
 
