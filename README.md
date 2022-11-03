@@ -1,6 +1,6 @@
 # Instructions
 
-1. After installing the RPi OS, open a terminal window.
+1. After installing the RPi OS (I would use ["Raspberry Pi OS with Recommended Software"](https://www.raspberrypi.com/software/operating-systems/), since it likely includes everything you'll need), open a terminal window.
 2. Go to the home directory (in case you aren't already there): `cd ~`
 3. Clone this repository: `git clone https://github.com/ZPears/gifo_test_script.git`
 4. Go into the cloned repository: `cd ~/gifo_test_script`
