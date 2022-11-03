@@ -6,7 +6,7 @@
 4. Go into the cloned repository: `cd ~/gifo_test_script`
 5. Install dependencies (just the GPIO library): `pip install -r requirements.txt`
 6. Start program: `python test.py`
-7. Press buttons and see if there's any output to the console.
+7. Press buttons and see if there's any output to the console. It should print "Input on pin number $PIN_NUMBER" whenever a pin receives input.
 
 # Notes
 
