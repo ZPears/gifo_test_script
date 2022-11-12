@@ -17,5 +17,8 @@ def main():
     for button in buttons:
         button.when_pressed = button_callback
 
+    while True:
+        continue
+
 if __name__ == "__main__":
     main()
